@@ -1,0 +1,1 @@
+This is a work-in-progress implementation of generic doubly-linked trees in Rust. I believe it is quite possible to write safe, generic doubly-linked trees that support all reasonable operations in Rust, with zero overhead (no reference counting, refcells, or garbage collection). This project aims to achieve this in a useful, convenient package.
